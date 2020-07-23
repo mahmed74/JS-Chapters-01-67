@@ -1,0 +1,10 @@
+.img {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+
+.bigImage {
+    width: 300px;
+    height: 300px;
+}
